@@ -1,4 +1,4 @@
-import './helpers/dotenv'
+import './helpers/config'
 
 import express from 'express'
 import morgan from 'morgan'
