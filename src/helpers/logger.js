@@ -1,5 +1,5 @@
-import pino from 'pino'
+import consola from 'consola'
 
-const logger = pino()
+const logger = consola
 
 export default logger
